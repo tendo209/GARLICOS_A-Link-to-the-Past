@@ -1,7 +1,7 @@
 {
 	"iso-code": "en_us",
 	"font": "Minecraftia.ttf",
-	"font-size": 14,
+	"font-size": 18,
 	"button-guide-font-size": 14,
 	"recent-label": "Recent",
 	"favorites-label": "Favorites",
@@ -26,5 +26,5 @@
 	"hour-label": "HH",
 	"minute-label": "MM",
 	"meridian-time-label": "AM/PM",
-	"title-label": "."
+	"title-label": "Garlic OS"
 }
